@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Ex14
+comment0.text=\r\n\ \r\n\ @author\ Shahar\r\n\ @version\ 15.01.2022\r\n
+comment1.params=a\ num
+comment1.target=int[]\ findIndex(int[],\ int)
+comment1.text=question\ 1\ \:return\ the\ value\ of\ the\ minimum\ distence\ between\ 2\ index\ of\ prameters\ or\ Integer.MAX_VALUE\ if\ not\ in\ array\ given\ \ o(n^2)
+comment2.params=a\ x\ y
+comment2.target=int\ findMinDiff(int[],\ int,\ int)
+comment3.params=mat\ num
+comment3.target=boolean\ Search(int[][],\ int)
+comment3.text=question\ 2\ \:search\ if\ and\ where\ num\ is\ in\ mat\ O(n^2)
+comment4.params=arr
+comment4.target=boolean\ equalSplit(int[])
+comment4.text=question\ 3\ \:check\ if\ array\ is\ equalSplit
+comment5.params=arr\ lo\ hi
+comment5.target=int\ sum(int[],\ int,\ int)
+comment6.params=n
+comment6.target=java.lang.Boolean\ isSpecial(int)
+comment6.text=question\ 4\ \:check\ if\ n\ is\ Special\ number
+numComments=7

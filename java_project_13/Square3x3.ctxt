@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Square3x3
+comment0.text=\r\n\ creat\ 3x3x3\ square.\r\n\r\n\ @author\ Shahar\r\n\ @version\ 11.12.2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Square3x3\r\n
+numComments=2
